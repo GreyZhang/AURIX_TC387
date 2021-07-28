@@ -1,3 +1,4 @@
 * AURIX 2G学习笔记
 ** 概述
 ** 学习笔记
+- [[https://greyzhang.blog.csdn.net/article/details/119192957][698_安装AURIX开发工具HighTec并做编译测试]]
